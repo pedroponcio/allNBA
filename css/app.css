@@ -1,0 +1,18 @@
+.container {
+    margin: 20px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.random-film {
+    padding: 10px;
+    border: 2px solid #4CAF50;
+}
+
+#app{
+
+    margin-top: 490px;
+}
+
